@@ -1,4 +1,4 @@
-# BharatInter_Projects
+# BharatIntern_Projects
 ## Description
 This repository contains Jupyter notebook code for three machine learning tasks completed during my Bharat Intern virtual internship.
 
